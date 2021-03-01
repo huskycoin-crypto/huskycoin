@@ -1,0 +1,2 @@
+# huskycoin
+Huskycoin repo
